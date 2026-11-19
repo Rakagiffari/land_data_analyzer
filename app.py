@@ -70,8 +70,8 @@ if file:
 
     maksimum = st.selectbox(
         "Maksimal kombinasi variabel",
-        options=[1, 2, 3, 4],
-        index=2
+        options=[1, 2, 3],
+        index=1
     )
 
     st.caption(
